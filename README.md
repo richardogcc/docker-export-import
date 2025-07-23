@@ -364,10 +364,6 @@ sudo ./docker-backup.sh
 - ✅ Informes detallados de backup y restauración
 - ✅ Manejo seguro de espacios en nombres y rutas
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 🙏 Agradecimientos
 
 - Comunidad Docker por la excelente documentación
