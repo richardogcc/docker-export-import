@@ -1,0 +1,32 @@
+# Docker Backup & Restore System
+
+## Archivos principales
+*.tar
+*.tar.gz
+docker_backup_*/
+jq
+jq.exe
+
+## Archivos de prueba
+test_data/
+cleanup-test.sh
+
+## Logs
+*.log
+
+## Temporales
+.tmp/
+temp/
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Docker
+.dockerignore
