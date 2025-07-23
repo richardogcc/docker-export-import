@@ -63,7 +63,7 @@ docker-backup-system/
 1. **Clonar o descargar** los scripts:
 ```bash
 git clone <repository-url>
-cd docker-backup-system
+cd docker-export-import
 ```
 
 2. **Dar permisos de ejecución**:
